@@ -1,0 +1,26 @@
+.movie 
+{
+    width: 20%;
+    height: auto;
+    padding-top: 0;
+    padding: 0 1rem;
+}
+
+.movie img {
+   width: 100%;
+}
+
+.title 
+{
+    font-weight: bold;
+}
+.information
+{
+    padding: 1rem;
+    padding-left: 0.8rem;
+    background-color: white;
+}
+
+.date {
+    font-weight: 100;
+}
