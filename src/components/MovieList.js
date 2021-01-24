@@ -10,7 +10,7 @@ function MovieList({movies})
             release_date= {movie.release_date}
             title = {movie.title}
             key = {uuidv4()}
-            />
+        />
         })}
         </div>
     ) 

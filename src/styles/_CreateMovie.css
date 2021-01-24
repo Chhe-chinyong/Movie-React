@@ -1,0 +1,19 @@
+.createMovie
+{
+    text-align: center;
+}
+.createMovie label
+{
+    margin: 1rem;
+}
+
+#title
+{
+    padding: 0.2rem 0.5rem;
+}
+
+#submit {
+    margin: 0 0.5rem;
+    padding: 0.2rem 0.5rem;
+}
+
